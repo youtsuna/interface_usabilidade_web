@@ -1,1 +1,1 @@
-Atividade em grupo para o IFTO.
+Atividade para o IFTO.
